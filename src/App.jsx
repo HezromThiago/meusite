@@ -8,7 +8,7 @@ import AddTask from "./components/AddTask";
 import Header from "./components/Header";
 import TaskDetails from "./components/TaskDetails";
 
-import "./app.css";
+import "./App.css";
 
 function App() {
   const [tasks, setTasks] = useState([
