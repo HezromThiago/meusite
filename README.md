@@ -1,24 +1,17 @@
-# CRUD CONSUMINDO API
+# HMS Consertos e Reformas (Laravel Full Stack)
 
-Projeto para aprendizado sobre ReactJS.
+Este projeto foi organizado para usar **Laravel no backend e frontend**.
 
-## Bibliotecas utilizadas
+## Estrutura principal
 
-- uuid
-- react-router-dom
-- axios
-- react-icons
+- `backend/app` → Controllers, Models e regras de negócio
+- `backend/routes/api.php` → API para admin (login, CRUD e configurações)
+- `backend/routes/web.php` → Rotas web renderizadas com Blade
+- `backend/resources/views` → Frontend com HTML + CSS (Blade)
+- `backend/public/css/site.css` → Estilos visuais do site
 
-## Hooks Utilizados
+## Conta admin (seeder)
 
-- useState
-- useEffect
-- useHistory
+- Email: `hezromthiago@gmail.com`
+- Senha: `6125496c`
 
-
-## Aprendizado
-
-Aprendi a utilizar os Hooks tão importantes no mundo de React👨🏽‍💻
-, o interessante do useHistory é o controle que da aplicação sobre a navegação, useState o controle de estado de um componente(realmente insano 🤯) é não menos importante(mas é claro importante) ô useEffect, o ele trabalha sempre que variável passada muda de estado(ótimo combo👾com o useState).
-
-_Mais um projeto de muitos em React :)_  ​👽​🚀​
