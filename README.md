@@ -1,24 +1,16 @@
-# CRUD CONSUMINDO API
+# Site HMS - Frontend + Backend (estrutura Laravel)
 
-Projeto para aprendizado sobre ReactJS.
+Este repositório agora possui:
 
-## Bibliotecas utilizadas
+- Frontend React existente em `src/`
+- Estrutura de backend Laravel em `backend/` para autenticação admin e CRUD de cidades, produtos, depoimentos e configurações
 
-- uuid
-- react-router-dom
-- axios
-- react-icons
+## Backend Laravel
 
-## Hooks Utilizados
+Consulte `backend/README.md` para detalhes dos endpoints e estrutura.
 
-- useState
-- useEffect
-- useHistory
+### Conta admin configurada no seeder
 
+- Email: `hezromthiago@gmail.com`
+- Senha: `6125496c`
 
-## Aprendizado
-
-Aprendi a utilizar os Hooks tão importantes no mundo de React👨🏽‍💻
-, o interessante do useHistory é o controle que da aplicação sobre a navegação, useState o controle de estado de um componente(realmente insano 🤯) é não menos importante(mas é claro importante) ô useEffect, o ele trabalha sempre que variável passada muda de estado(ótimo combo👾com o useState).
-
-_Mais um projeto de muitos em React :)_  ​👽​🚀​
